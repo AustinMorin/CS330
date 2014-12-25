@@ -1,0 +1,3 @@
+dburl=jdbc:mysql://db.cs.wwu.edu/feltsc_CS330
+user = feltsc_writer
+password =ZW8CzxQT
